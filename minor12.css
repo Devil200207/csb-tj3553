@@ -1,0 +1,305 @@
+@media screen and (max-width:1540px) {
+
+    /* recently display */
+
+    .recent-display .card .text-time h5
+    {
+        left: 700px;
+    }
+
+    .recent-display .protfolio-detail i
+    {
+        left: 850px;
+    }
+
+
+    /* more like this */
+
+    .card-group .card img
+    {
+        left: 30px;
+    }
+
+    .jump-back .card-group .protfolio-detail a i
+    {
+        left: 170px;
+    }
+    
+}
+
+@media screen and (max-width:1300px)
+{
+    /* recently display */
+
+    .recent-display .card span h5
+    {
+        left: 300px;
+    }
+
+    .recent-display .card .text-time h5
+    {
+        left: 550px;
+    }
+
+    .recent-display .protfolio-detail i
+    {
+        left: 700px;
+    }
+
+    /* More like this */
+
+    .card-group .card
+    {
+        width: 45px !important;
+    }
+
+    .card-group .card img
+    {
+        height: 145px;
+        width: 145px;
+        left: 19px;
+        top: 18px;
+    }
+
+    .jump-back .card-group .protfolio-detail a i
+    {
+        left: 135px;
+        top: 120px;
+    }
+
+}
+
+@media screen and (max-width:950px) 
+{
+    /* aside1 */
+
+    #aside1
+    {
+        font-size: .8rem;
+    }
+
+    aside i
+    {
+        font-size: 15px;
+    }
+
+    aside #play1
+    {
+        font-size: 15px;
+    }
+
+    /* recently display */
+
+    .recent-display .card span h5
+    {
+        left: 230px;
+    }
+
+    .recent-display .card .text-time h5
+    {
+        left: 400px;
+    }
+
+    .recent-display .protfolio-detail i
+    {
+        left: 500px;
+    }
+
+
+    /* More like this */
+
+    .card-group .card
+    {
+        width: 45px !important;
+    }
+
+    .card-group .card img
+    {
+        height: 110px;
+        width: 100px;
+        left: 15px;
+        top: 18px;
+    }
+
+    .jump-back .card-group .protfolio-detail a i
+    {
+        left: 95px;
+        top: 90px;
+    }
+
+    /* footer */
+
+    footer
+   {
+      top: 91% !important;
+   }
+
+   .f-img img
+   {
+    position: absolute;
+    bottom: 11px;
+   }
+
+   .s-name h5
+   {
+    bottom: 30px;
+    left: 80px;
+   }
+
+   .ss-name
+   {
+    bottom: 17px;
+    left: 71px;
+   }
+
+   .l-but
+   {
+    left: 169px;
+    bottom: 25px;
+   }
+
+   .m-player .p-but
+   {
+    font-size: 1.3rem;
+    bottom: 38px;
+   }
+
+   .b-green
+   {
+    font-size: 1.3rem;
+   }
+
+   #slider
+   {
+     bottom: 13px;
+   }
+
+   /* aside2 */
+
+   div span a h5
+   {
+      font-size: .8rem;
+   }
+
+   div span a i
+   {
+    right: 7%;
+   }
+
+   .f-text span p
+   {
+    left: 3%;
+   }
+
+   .f-but button
+   {
+    top: 380px;
+    left: 15%;
+   }
+}
+
+@media screen and (max-width:800px) {
+
+    /* aside1 */
+
+    #aside1
+    {
+        font-size: .8rem;
+    }
+
+    aside i
+    {
+        font-size: 15px;
+    }
+
+    aside #play1
+    {
+        font-size: 15px;
+    }
+
+    /* recently display */
+
+    .recent-display .card span h5
+    {
+        left: 180px;
+    }
+
+    .recent-display .card .text-time h5
+    {
+        left: 310px;
+    }
+
+    .recent-display .protfolio-detail i
+    {
+        left: 390px;
+    }
+
+    /* jump abck in */
+
+    .card-group .card
+    {
+        width: 45px !important;
+    }
+
+    .card-group .card img
+    {
+        height: 80px;
+        width: 80px;
+        left: 15px;
+        top: 18px;
+    }
+
+    .jump-back .card-group .protfolio-detail a i
+    {
+        left: 75px;
+        top: 70px;
+    }
+
+    /* footer */
+
+    footer
+   {
+      top: 89% !important;
+   }
+
+   .m-player .p-but
+   {
+    font-size: 1.3rem;
+    bottom: 38px;
+    left: 60%;
+   }
+
+   .b-green
+   {
+    font-size: 1.3rem;
+   }
+
+   #slider
+   {
+     bottom: 13px;
+     left: 19%;
+   }
+
+   /* aside2 */
+
+   div span a h5
+   {
+      font-size: .6rem;
+   }
+
+   div span a i
+   {
+    right: 5%;
+   }
+
+   .f-text span p
+   {
+    left: 3%;
+   }
+
+   .f-but button
+   {
+    top: 420px;
+    left: 5%;
+   }
+}
